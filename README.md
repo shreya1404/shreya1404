@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreya1404
-- 👀 I’m interested in python developer,full stack developer.
+- 👀 I’m interested in Development roles.
 - 🌱 I’m currently learning HTML,CSS,Javascript,ReactJS
 - 📫 How to reach me shreyagarg1404@gmail.com
 
